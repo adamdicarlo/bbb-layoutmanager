@@ -1,5 +1,6 @@
 define(function(require, exports, module) {
 
+  var $ = require("jquery");
   var LayoutManager = require("backbone.layoutmanager");
 
   // Configure LayoutManager with Backbone Boilerplate defaults.
